@@ -2,10 +2,10 @@
 title: cc
 SEOTitle: cc
 header-img: img/bg-index.jpg
-email: ngchichon830@gmail.com
+email: hon20002000@gmail.com
 description: "邊緣科技小組"
 keyword: ""
-url: "https://ccng830.github.io"              # your host, for absolute URL
+url: "https://leadingedu.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -70,7 +70,7 @@ netease_comment: true
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: ccng830.github.io
+ga_domain: leadingedu.github.io
 
 
 
