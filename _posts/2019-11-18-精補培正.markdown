@@ -15,11 +15,11 @@ tags:
 > 均已順利畢業並前往各地升讀大學  
   
 
-## 初中全科  
-## 高中數理化英  
+## 初中-全科  
+## 高中-數理化英  
 
   
-<img src="/img/tutorial/pc.png" width="50%">  
+<img src="/img/tutorial/pc.png" width="30%">  
   
 
 
