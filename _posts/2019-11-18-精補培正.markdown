@@ -10,16 +10,17 @@ tags:
 ---
 ## 精補培正中學   
   
-本補習中心具有多年補習培正學生的經驗，多年來經本社指導的學生，均已順利畢業並前往各地升讀大學。  
+> 本補習中心具有多年補習培正學生的經驗  
+> 多年來經本社指導的學生  
+> 均已順利畢業並前往各地升讀大學  
   
-> <a href="https://github.com/BradLarson/GPUImage2">下載GPUImage2</a>  
+
+## 初中全科  
+## 高中數理化英  
+
   
-## 初中  
+<img src="/img/toturial/pc.jpg" width="50%">  
   
-全科補習。  
-  
-<img src="/img/GPUImage2/p1_img1.png" width="100%">  
-  
-‌## 高中  
+
 
 
