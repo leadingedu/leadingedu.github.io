@@ -1,13 +1,12 @@
 ---
 layout:     post
-title:      "GPUImage2在項目中集成"
+title:      "常規補習"
 date:       2019-11-18 23:55:00
-author:     "cc"
+author:     "超前教育補習中心"
 header-img: "img/tag-bg.jpg"
 catalog: true
 tags:
-    - swift
-    - GPUImage2
+    - 常規補習
 ---
 ## 概述
 
