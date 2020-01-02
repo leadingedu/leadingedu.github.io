@@ -2,7 +2,7 @@
 layout:     post
 title:      "保安部隊"
 date:       2019-02-01
-author:     "cc"
+author:     "超前教育補習中心"
 header-img: "img/tag-bg.jpg"
 catalog: true
 tags:
@@ -29,7 +29,7 @@ facebook share: 學費減免200元
 電話：62515325  (湯SIR) / 63971999  (梁SIR)  
 地址：高地烏巷富麗宛地下L鋪(庇道學校對面)  
 
-## 數學考試
+## 數學考試(特訓班)
 
 本社具有多年教授保安部隊考試的經驗  
 深知學生基礎較差  
@@ -48,6 +48,17 @@ facebook share: 學費減免200元
   |-----|-----------------------|-----------------------|   
   |一堂|{::nomarkdown}<ul><li>250</li></ul>{:/}|{::nomarkdown}<ul><li>2小時/堂</li></ul>{:/}|
   |完整課程|{::nomarkdown}<ul><li>3300</li></ul>{:/}|{::nomarkdown}<ul><li>30小時/15堂</li></ul>{:/}|
+    
+## 數學考試(影片班)  
+影片班適合一天中具有較長時間學習的學生  
+可在任意時間，不限次數地複習所有教材及習題講解  
+在場均設有老師答疑
+
+    
+  |項目   |學費                     |課時                     |
+  |-----|-----------------------|-----------------------|   
+  |一堂|{::nomarkdown}<ul><li>250</li></ul>{:/}|{::nomarkdown}<ul><li>2小時/堂</li></ul>{:/}|
+  |完整課程|{::nomarkdown}<ul><li>3300</li></ul>{:/}|{::nomarkdown}<ul><li>30小時/15堂</li></ul>{:/}|  
     
 <img src="/img/tutorial/esfsm.png" width="30%">  
   
