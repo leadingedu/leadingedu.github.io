@@ -45,7 +45,7 @@ facebook share: 學費減免200元
   |項目   |學費                     |課時                     |
   |-----|-----------------------|-----------------------|   
   |一堂|{::nomarkdown}<ul><li>250</li></ul>{:/}|{::nomarkdown}<ul><li>2小時/堂</li></ul>{:/}|
-  |完整課程|{::nomarkdown}<ul><li>3800</li></ul>{:/}|{::nomarkdown}<ul><li>30小時/15堂</li></ul>{:/}|
+  |完整課程|{::nomarkdown}<ul><li>3300</li></ul>{:/}|{::nomarkdown}<ul><li>30小時/15堂</li></ul>{:/}|
     
 <img src="/img/tutorial/esfsm.png" width="30%">  
   
