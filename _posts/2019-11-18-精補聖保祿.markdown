@@ -11,13 +11,22 @@ tags:
 ## 精補聖保祿中學   
   
 > 本補習中心具有多年補習聖保祿學生的經驗  
+> 包括試卷操練及額外練習  
 > 多年來經本社指導的學生  
 > 均已順利畢業並前往各地升讀大學  
   
 
-## 初中-全科  
-## 高中-數理化英  
-
+## 初中-全科  及  高中-數理化英
+   
+    
+  |年級   |全科學費                     |單科學費                     |
+  |-----|-----------------------|-----------------------|   
+  |初一|{::nomarkdown}<ul><li>2550</li></ul>{:/}|{::nomarkdown}<ul><li>1800</li></ul>{:/}|
+  |初二|{::nomarkdown}<ul><li>2650</li></ul>{:/}|{::nomarkdown}<ul><li>1900</li></ul>{:/}|
+  |初三|{::nomarkdown}<ul><li>2750</li></ul>{:/}|{::nomarkdown}<ul><li>2000</li></ul>{:/}|
+  |高一|{::nomarkdown}<ul><li>3150</li></ul>{:/}|{::nomarkdown}<ul><li>2100</li></ul>{:/}|
+  |高二|{::nomarkdown}<ul><li>3350</li></ul>{:/}|{::nomarkdown}<ul><li>2200</li></ul>{:/}|
+  |高三|{::nomarkdown}<ul><li>3650</li></ul>{:/}|{::nomarkdown}<ul><li>2300</li></ul>{:/}|  
   
 <img src="/img/tutorial/sp.png" width="30%">  
   
