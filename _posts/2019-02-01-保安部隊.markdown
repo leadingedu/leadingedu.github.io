@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      "保安高校"
-date:       2019-03-01
+title:      "保安部隊"
+date:       2019-02-01
 author:     "cc"
 header-img: "img/tag-bg.jpg"
 catalog: true
 tags:
-    - 保安高校
+    - 保安部隊
 ---
-## 精補保安高校
-
+## 精補保安部隊   
+  
 > 本補習中心具有多年補習保安部隊學生的經驗  
 > 完整教材及練習    
 > 多年來經本社指導的學生  
@@ -22,13 +22,10 @@ tags:
   |項目   |學費                     |課時                     |
   |-----|-----------------------|-----------------------|   
   |一堂|{::nomarkdown}<ul><li>250</li></ul>{:/}|{::nomarkdown}<ul><li>2小時/堂</li></ul>{:/}|
-  |完整課程|{::nomarkdown}<ul><li>9600</li></ul>{:/}|{::nomarkdown}<ul><li>30小時/15堂</li></ul>{:/}|
+  |完整課程|{::nomarkdown}<ul><li>6000</li></ul>{:/}|{::nomarkdown}<ul><li>30小時/15堂</li></ul>{:/}|
     
-<img src="/img/tutorial/dsfsm.png" width="30%">  
+<img src="/img/tutorial/esfsm.png" width="30%">  
   
 
 
-    
-    
-    
 
